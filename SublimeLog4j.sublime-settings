@@ -1,0 +1,10 @@
+{
+  "color_scheme": "Packages/SublimeLog4j/SublimeLog4j.tmTheme",
+  "font_size": 10,
+  "font_face": "YaHei Consolas Hybrid",
+  "extensions":
+  [
+    "log",
+    "out"
+  ]
+}
